@@ -2,8 +2,8 @@
 
 // Define notes with keyboard key and frequency (in Hz)
 const notes = [
-  { key: "1", name: "1", freq: 440.00 },
-  { key: "2", name: "2", freq: 554.37 },
+  { key: "1", name: "1", freq: 554.77 },
+  { key: "2", name: "2", freq: 587.33 },
   { key: "3", name: "3", freq: 659.25 },
   { key: "4", name: "4", freq: 739.99 },
   { key: "5", name: "5", freq: 830.61 },
