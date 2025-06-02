@@ -1,6 +1,6 @@
 # 🎼 Semar Pegulingan by @alqipne
 
-A simple and responsive web-based Gender Wayang simulator using Web Audio API.  
+A simple and responsive web-based semar pegulingan simulator using Web Audio API.  
 Play traditional gamelan tones mapped to numbers **1–7** using either your **keyboard** or by **tapping on-screen buttons** — works great on both desktop and mobile devices.
 
 ## [PLAY HERE](https://alqipne.github.io/Semar-Pegulingan/)
@@ -62,7 +62,7 @@ Each waveform offers a different tonal character that can mimic parts of gamelan
 
 ## 🧠 Credits
 
-- Built with ❤️ by [@alqipne](https://www.instagram.com/alqipne)
+- Built with ❤️ by [@alqipne](https://instagram.com/alqipne)
 - Inspired by traditional Balinese gamelan scale.
 
 ---
