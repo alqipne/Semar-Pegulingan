@@ -10,7 +10,7 @@ Play traditional gamelan tones mapped to numbers **1–7** using either your **k
 ## 🌟 Features
 
 - ✅ Responsive design for desktop & mobile
-- ✅ 10-tone gender wayang scale
+- ✅ 7-tone semar pegulingan scale
 - ✅ Keyboard support (numbers 1–7)
 - ✅ Touch-friendly interface
 - ✅ Waveform selector: sine, square, triangle, sawtooth
